@@ -1,0 +1,30 @@
+div.nav-container {
+    display: table;
+    margin: 10px 25px;
+}
+
+div.nav-container-row {
+    display: table-row;
+}
+
+div.nav-container-cell {
+    display: table-cell;
+    padding: 5px 15px;
+    border: 1px solid #dddddd;
+}
+
+div.nav-container-cell ul {
+    list-style-type: decimal-leading-zero;
+}
+
+div.routing-result {
+    margin: 5px;
+    padding: 5px;
+    background-color: #f1f1f1;
+    border: 1px solid #c1c1c1;
+}
+
+p.layout-name {
+    font-weight: bold;
+    color: red;
+}
