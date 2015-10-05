@@ -3,10 +3,10 @@ Test application for iron:router 1.0.9 and iron:middleware-stack 1.0.9 update.
 ==============================================================================
 
 ## New features
-Iron:Router
-Methods: nextRoute(), findRoute().
-Hook: onBeforeRun.
-Option: layoutPrerendering (TRUE by default).
+Iron:Router<br>
+Methods: nextRoute(), findRoute().<br>
+Hook: onBeforeRun.<br>
+Option: layoutPrerendering (TRUE by default).<br>
 
 ## Note
-Look at sources. Some information logs to console (on both sides - client and server).
+Look at application sources. Some information logs to console (on both sides - client and server).
