@@ -1,4 +1,4 @@
-Test application for iron:router 1.0.9 and iron:middleware-stack update.
+Test application for iron:router 1.0.9 and iron:middleware-stack 1.0.9 update.
 
 ==============================================================================
 
